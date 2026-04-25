@@ -5,6 +5,20 @@
     <link>http://localhost:1313/PGN.github.io/posts/</link>
     <description>Recent content in Posts on Kevin`s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="http://localhost:1313/PGN.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 25 Apr 2026 19:53:31 +0800</lastBuildDate><atom:link href="http://localhost:1313/PGN.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>http://localhost:1313/PGN.github.io/posts/first_post/</link>
+      <pubDate>Sat, 25 Apr 2026 19:53:31 +0800</pubDate>
+      
+      <guid>http://localhost:1313/PGN.github.io/posts/first_post/</guid>
+      
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;
+&lt;p&gt;Hello! my name is Kevin.
+&lt;img src=&#34;http://localhost:1313/PGN.github.io/img/Kevin_Lin.png&#34; alt=&#34;圖片&#34;&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>

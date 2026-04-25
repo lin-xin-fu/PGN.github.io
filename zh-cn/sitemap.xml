@@ -5,6 +5,16 @@
     <loc>http://localhost:1313/PGN.github.io/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/PGN.github.io/pt-br/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="http://localhost:1313/PGN.github.io/ru-ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de-de"
                 href="http://localhost:1313/PGN.github.io/de-de/categories/"
                 />
@@ -25,16 +35,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/PGN.github.io/pt-br/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="http://localhost:1313/PGN.github.io/ru-ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="it"
                 href="http://localhost:1313/PGN.github.io/it/categories/"
                 />
@@ -45,6 +45,16 @@
                 />
   </url><url>
     <loc>http://localhost:1313/PGN.github.io/zh-cn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-gb"
+                href="http://localhost:1313/PGN.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/PGN.github.io/fr-fr/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -67,16 +77,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-gb"
-                href="http://localhost:1313/PGN.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/PGN.github.io/fr-fr/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="it"
                 href="http://localhost:1313/PGN.github.io/it/"
                 />
@@ -87,16 +87,6 @@
                 />
   </url><url>
     <loc>http://localhost:1313/PGN.github.io/zh-cn/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/PGN.github.io/fr-fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/PGN.github.io/ja/tags/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -116,6 +106,16 @@
                 rel="alternate"
                 hreflang="en-gb"
                 href="http://localhost:1313/PGN.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/PGN.github.io/fr-fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/PGN.github.io/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
